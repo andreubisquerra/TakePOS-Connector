@@ -1,2 +1,0 @@
-# TakePOS-Connector
-TakePOS Connector
